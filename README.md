@@ -8,6 +8,8 @@
 - 💬 Me encontre no LinkedIn: https://www.linkedin.com/in/danielemedeiros/
 - 😄 Pronomes: Ela/Dela
 
+##
+
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dani-Medeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
