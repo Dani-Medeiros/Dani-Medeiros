@@ -3,7 +3,7 @@
 <!--
 **Dani-Medeiros/Dani-Medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Atualmente estou cursando front-end
+- 🔭 Atualmente estou cursando front-end e java
 - 🌱 Buscando vagas junior || trainee
 - 💬 Me encontre no LinkedIn: https://www.linkedin.com/in/danielemedeiros/
 - 😄 Pronomes: Ela/Dela
