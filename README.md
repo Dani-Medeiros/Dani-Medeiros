@@ -3,7 +3,7 @@
 <!--
 **Dani-Medeiros/Dani-Medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Atualmente estou cursando front-end, java, nodejs e inglês.
+- 🔭 Atualmente estou cursando front-end, java, node.js e inglês.
 - 🌱 Buscando vagas junior || trainee
 - 💬 Me encontre no LinkedIn: https://www.linkedin.com/in/danielemedeiros/
 - 👩🏻‍💻 Meu portfólio: https://dani-medeiros.github.io/portfolio/
