@@ -6,11 +6,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani-Medeiros&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
----
-
-
 ## 🚀 Tecnologias
 
 <div style="display: inline_block">
