@@ -4,36 +4,21 @@
 🚀 Desenvolvedora Web em formação  
 📚 Focada em PHP, JavaScript, TypeScript, Java, MySQL, Spring Boot e Laravel.
 
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dani-Medeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Medeiros&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<img align="center" alt="JS" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<img align="center" alt="PHP" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<img align="center" alt="MySQL" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img align="center" alt="HTML" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<img align="center" alt="CSS" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-</div>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -43,4 +28,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dani_medeiros1)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/487339083513724928
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/487339083513724928)
