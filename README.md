@@ -1,9 +1,9 @@
 # Olá, eu sou a Daniele 👋
 
-💻 Desenvolvedora Full Stack em formação
-📚 Estudante de Análise e Desenvolvimento de Sistemas
-☕ Java • PHP • Spring Boot • Laravel • Python
-🚀 Apaixonada por aprender, pesquisar e transformar ideias em projetos
+💻 Desenvolvedora Full Stack em formação <br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas <br>
+☕ Java • PHP • Spring Boot • Laravel • Python <br>
+🚀 Apaixonada por aprender, pesquisar e transformar ideias em projetos <br>
 
 ---
 
