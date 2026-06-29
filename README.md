@@ -1,8 +1,9 @@
 # Olá, eu sou a Daniele 👋
 
-💻 Estudante de ADS  
-🚀 Desenvolvedora Web em formação  
-📚 Focada em PHP, JavaScript, TypeScript, Java, MySQL, Spring Boot e Laravel.
+💻 Desenvolvedora Full Stack em formação
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+☕ Java • PHP • Spring Boot • Laravel • Python
+🚀 Apaixonada por aprender, pesquisar e transformar ideias em projetos
 
 ---
 
