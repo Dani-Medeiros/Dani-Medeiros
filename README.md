@@ -1,13 +1,12 @@
-# Olá, eu sou a Daniele 👋
+# Hi, I'm Daniele. 👋
 
-💻 Desenvolvedora Full Stack em formação <br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas <br>
-☕ Java • PHP • Spring Boot • Laravel • Python <br>
-🚀 Apaixonada por aprender, pesquisar e transformar ideias em projetos <br>
+💻 Full Stack Developer in training <br>
+☕ PHP • Laravel • Java • Spring Boot • Python • FastAPI • Django <br>
+🚀 Always curious, always learning <br>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <div style="display: inline_block">
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
 <div>
 
