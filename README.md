@@ -1,7 +1,7 @@
 # Hi, I'm Daniele. 👋
 
 💻 Full Stack Developer in training <br>
-☕ PHP • Laravel • Java • Spring Boot • Python • FastAPI • Django <br>
+☕ PHP • Laravel • Java • Spring Boot <br>
 🚀 Always curious, always learning <br>
 
 ---
